@@ -182,7 +182,5 @@ date
 |Rafsan | ru@kh.com |
 | Rafsan | a text |  
 
-
-
 <!-- all weblink -->  
 [fb]: www.fb.com  
